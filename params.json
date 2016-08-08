@@ -1,0 +1,6 @@
+{
+  "name": "GhostOS",
+  "tagline": "A spooky OS that is in development",
+  "body": "This page will constantly be updated with the most recent release of GhostOS.\r\nGhostOS is coded mostly in C# through the use of Visual Studio 2013 with the COSMOS development kit.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
